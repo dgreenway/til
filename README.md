@@ -12,7 +12,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_828 TILs and counting..._
+_840 TILs and counting..._
 
 ---
 
@@ -66,6 +66,7 @@ _828 TILs and counting..._
 - [Simulating Various Connection Speeds](chrome/simulating-various-connection-speeds.md)
 - [Toggle Device Mode](chrome/toggle-device-mode.md)
 - [Toggle Open The Console Drawer](chrome/toggle-open-the-console-drawer.md)
+- [View Network Traffic For New Tabs](chrome/view-network-traffic-for-new-tabs.md)
 
 ### Clojure
 
@@ -103,6 +104,7 @@ _828 TILs and counting..._
 - [Parameterized SCSS Mixins](css/parameterized-scss-mixins.md)
 - [:root Has Higher Specificity Than html](css/root-has-higher-specificity-than-html.md)
 - [Style A Background With A Linear Gradient](css/style-a-background-with-a-linear-gradient.md)
+- [Using Maps In SCSS](css/using-maps-in-scss.md)
 
 ### Devops
 
@@ -233,6 +235,7 @@ _828 TILs and counting..._
 - [Stashing Only Unstaged Changes](git/stashing-only-unstaged-changes.md)
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
 - [Switch To A Recent Branch With FZF](git/switch-to-a-recent-branch-with-fzf.md)
+- [Two Kinds Of Dotted Range Notation](git/two-kinds-of-dotted-range-notation.md)
 - [Untrack A Directory Of Files Without Deleting](git/untrack-a-directory-of-files-without-deleting.md)
 - [Untrack A File Without Deleting It](git/untrack-a-file-without-deleting-it.md)
 - [Update The URL Of A Remote](git/update-the-url-of-a-remote.md)
@@ -390,6 +393,7 @@ _828 TILs and counting..._
 - [Clear The Screen In psql](postgres/clear-the-screen-in-psql.md)
 - [Clear The Screen In psql (2)](postgres/clear-the-screen-in-psql-2.md)
 - [Compute Hashes With pgcrypto](postgres/compute-hashes-with-pgcrypto.md)
+- [Compute The Levenshtein Distance Of Two Strings](postgres/compute-the-levenshtein-distance-of-two-strings.md)
 - [Compute The md5 Hash Of A String](postgres/compute-the-md5-hash-of-a-string.md)
 - [Configure The Timezone](postgres/configure-the-timezone.md)
 - [Constructing A Range Of Dates](postgres/constructing-a-range-of-dates.md)
@@ -556,9 +560,11 @@ _828 TILs and counting..._
 - [Formik's Validation Schema As A Function](react/formiks-validation-schema-as-a-function.md)
 - [Inactive And Active Component Styles With Radium](react/inactive-and-active-component-styles-with-radium.md)
 - [Inline Style Attributes Should Be Camel Cased](react/inline-style-attributes-should-be-camel-cased.md)
+- [Manage State In A Functional Component](react/manage-state-in-a-functional-component.md)
 - [Mapping Over One Or Many Children](react/mapping-over-one-or-many-children.md)
 - [Mock A Function That A Component Imports](react/mock-a-function-that-a-component-imports.md)
 - [Navigate With State Via @reach/router](react/navigate-with-state-via-reach-router.md)
+- [Pairing A Callback With A useState Hook](react/pairing-a-callback-with-a-usestate-hook.md)
 - [Passing Props Down To React-Router Route](react/passing-props-down-to-react-router-route.md)
 - [Prevent reach/router Redirect Error Screen In Dev](react/prevent-reach-router-redirect-error-screen-in-dev.md)
 - [Proxy To An API Server In Development With CRA](react/proxy-to-an-api-server-in-development-with-cra.md)
@@ -569,6 +575,8 @@ _828 TILs and counting..._
 - [Spelunking Through Components With Enzyme's Dive](react/spelunking-through-components-with-enzymes-dive.md)
 - [Sync Your react-router State With Redux](react/sync-your-react-router-state-with-redux.md)
 - [Test Files In create-react-app](react/test-files-in-create-react-app.md)
+- [Trigger Effect Only When The Component Mounts](react/trigger-effect-only-when-the-component-mounts.md)
+- [Update Formik Initial Values When Props Change](react/update-formik-initial-values-when-props-change.md)
 - [Upgrading To The Latest React In CodeSandbox](react/upgrading-to-the-latest-react-in-codesandbox.md)
 - [Use A Ref To Autofocus An Input](react/use-a-ref-to-autofocus-an-input.md)
 - [Use React 16 With Gatsby](react/use-react-16-with-gatsby.md)
@@ -648,6 +656,7 @@ _828 TILs and counting..._
 - [Get Info About Your RubyGems Environment](ruby/get-info-about-your-ruby-gems-environment.md)
 - [Identify Outdated Gems](ruby/identify-outdated-gems.md)
 - [If You Detect None](ruby/if-you-detect-none.md)
+- [Iterate With An Offset Index](ruby/iterate-with-an-offset-index.md)
 - [Ins And Outs Of Pry](ruby/ins-and-outs-of-pry.md)
 - [Invoking Rake Tasks Multiple Times](ruby/invoking-rake-tasks-multiple-times.md)
 - [Last Raised Exception In The Call Stack](ruby/last-raised-exception-in-the-call-stack.md)
@@ -678,15 +687,18 @@ _828 TILs and counting..._
 - [Scroll To Top Of Page With Capybara](ruby/scroll-to-top-of-page-with-capybara.md)
 - [Set RVM Default Ruby](ruby/set-rvm-default-ruby.md)
 - [Show Public Methods With Pry](ruby/show-public-methods-with-pry.md)
+- [Silence The Output Of A Ruby Statement In Pry](ruby/silence-the-output-of-a-ruby-statement-in-pry.md)
 - [Squeeze Out The Extra Space](ruby/squeeze-out-the-extra-space.md)
 - [String Interpolation With Instance Variables](ruby/string-interpolation-with-instance-variables.md)
 - [Summing Collections](ruby/summing-collections.md)
+- [Turning Any Class Into An Enumerator](ruby/turning-any-class-into-an-enumerator.md)
 - [Turning Things Into Hashes](ruby/turning-things-into-hashes.md)
 - [Uncaught Exceptions In Pry](ruby/uncaught-exceptions-in-pry.md)
 - [`undef_method` And The Inheritance Hierarchy](ruby/undef-method-and-the-inheritance-hierarchy.md)
 - [Up And Down With Integers](ruby/up-and-down-with-integers.md)
 - [Use A Case Statement As A Cond Statement](ruby/use-a-case-statement-as-a-cond-statement.md)
 - [Use dotenv In A Non-Rails Project](ruby/use-dotenv-in-a-non-rails-project.md)
+- [Use Tap For Better Test Data Setup](ruby/use-tap-for-better-test-data-setup.md)
 - [Using BCrypt To Create And Check Hashed Passwords](ruby/using-bcrypt-to-create-and-check-hashed-passwords.md)
 - [What To Do When You Don't Rescue](ruby/what-to-do-when-you-dont-rescue.md)
 - [Who Are My Ancestors?](ruby/who-are-my-ancestors.md)
