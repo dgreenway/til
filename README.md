@@ -12,7 +12,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_840 TILs and counting..._
+_857 TILs and counting..._
 
 ---
 
@@ -57,6 +57,7 @@ _840 TILs and counting..._
 ### Chrome
 
 - [Access A Value Logged To The Console](chrome/access-a-value-logged-to-the-console.md)
+- [Chrome Supports Many Unix Keyboard Shortcuts](chrome/chrome-supports-many-unix-keyboard-shortcuts.md)
 - [Copy Some Data From The Console](chrome/copy-some-data-from-the-console.md)
 - [Duplicate The Current Tab](chrome/duplicate-the-current-tab.md)
 - [Easier Access To Network Throttling Controls](chrome/easier-access-to-network-throttling-controls.md)
@@ -181,6 +182,7 @@ _840 TILs and counting..._
 - [Accessing a Lost Commit](git/accessing-a-lost-commit.md)
 - [Amend Author Of Previous Commit](git/amend-author-of-previous-commit.md)
 - [Caching Credentials](git/caching-credentials.md)
+- [Change The Start Point Of A Branch](git/change-the-start-point-of-a-branch.md)
 - [Checking Commit Ancestry](git/checking-commit-ancestry.md)
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
@@ -214,6 +216,7 @@ _840 TILs and counting..._
 - [List Untracked Files](git/list-untracked-files.md)
 - [Move The Latest Commit To A New Branch](git/move-the-latest-commit-to-a-new-branch.md)
 - [Pulling In Changes During An Interactive Rebase](git/pulling-in-changes-during-an-interactive-rebase.md)
+- [Quicker Commit Fixes With The Fixup Flag](git/quicker-commit-fixes-with-the-fixup-flag.md)
 - [Rebase Commits With An Arbitrary Command](git/rebase-commits-with-an-arbitrary-command.md)
 - [Reference A Commit Via Commit Message Pattern Matching](git/reference-a-commit-via-commit-message-pattern-matching.md)
 - [Rename A Remote](git/rename-a-remote.md)
@@ -292,6 +295,7 @@ _840 TILs and counting..._
 - [Fill An Input With A Ton Of Text](javascript/fill-an-input-with-a-ton-of-text.md)
 - [for...in Iterates Over Object Properties](javascript/for-in-iterates-over-object-properties.md)
 - [Freeze An Object, Sorta](javascript/freeze-an-object-sorta.md)
+- [Generate Random Integers](javascript/generate-random-integers.md)
 - [Get The Location And Size Of An Element](javascript/get-the-location-and-size-of-an-element.md)
 - [Get The Time Zone Of The Client Computer](javascript/get-the-time-zone-of-the-client-computer.md)
 - [Globally Install A Package With Yarn](javascript/globally-install-a-package-with-yarn.md)
@@ -301,12 +305,14 @@ _840 TILs and counting..._
 - [ISO-8601 Formatted Dates Are Interpreted As UTC](javascript/iso-8601-formatted-dates-are-interpreted-as-utc.md)
 - [Link A JavaScript Package Locally](javascript/link-a-javascript-package-locally.md)
 - [List Top-Level NPM Dependencies](javascript/list-top-level-npm-dependencies.md)
+- [Make The Browser Editable With Design Mode](javascript/make-the-browser-editable-with-design-mode.md)
 - [Matching A Computed Property In Function Args](javascript/matching-a-computed-property-in-function-args.md)
 - [Matching Multiple Values In A Switch Statement](javascript/matching-multiple-values-in-a-switch-statement.md)
 - [Mock A Function With Return Values Using Jest](javascript/mock-a-function-with-return-values-using-jest.md)
 - [New Dates Can Take Out Of Bounds Values](javascript/new-dates-can-take-out-of-bounds-values.md)
 - [Numbers Are Empty](javascript/numbers-are-empty.md)
 - [Object Initialization With Shorthand Property Names](javascript/object-initialization-with-shorthand-property-names.md)
+- [Obtain Undefined Value With The Void Operator](javascript/obtain-undefined-value-with-the-void-operator.md)
 - [Random Cannot Be Seeded](javascript/random-cannot-be-seeded.md)
 - [Reach Into An Object For Nested Data With Get](javascript/reach-into-an-object-for-nested-data-with-get.md)
 - [Render An Array Of Elements With React 16](javascript/render-an-array-of-elements-with-react-16.md)
@@ -388,6 +394,7 @@ _840 TILs and counting..._
 - [Between Symmetric](postgres/between-symmetric.md)
 - [Capitalize All The Words](postgres/capitalize-all-the-words.md)
 - [Change The Current Directory For psql](postgres/change-the-current-directory-for-psql.md)
+- [Check Table For Any Oprhaned Records](postgres/check-table-for-any-orphaned-records.md)
 - [Checking Inequality](postgres/checking-inequality.md)
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
 - [Clear The Screen In psql](postgres/clear-the-screen-in-psql.md)
@@ -399,6 +406,7 @@ _840 TILs and counting..._
 - [Constructing A Range Of Dates](postgres/constructing-a-range-of-dates.md)
 - [Convert A String To A Timestamp](postgres/convert-a-string-to-a-timestamp.md)
 - [Count Records By Type](postgres/count-records-by-type.md)
+- [Count The Number Of Trues In An Aggregate Query](postgres/count-the-number-of-trues-in-an-aggregate-query.md)
 - [Create A Composite Primary Key](postgres/create-a-composite-primary-key.md)
 - [Create An Index Without Locking The Table](postgres/create-an-index-without-locking-the-table.md)
 - [Create hstore From Two Arrays](postgres/create-hstore-from-two-arrays.md)
@@ -495,6 +503,7 @@ _840 TILs and counting..._
 - [Capybara Page Status Code](rails/capybara-page-status-code.md)
 - [Cast Common Boolean-Like Values To Booleans](rails/cast-common-boolean-like-values-to-booleans.md)
 - [Change The Nullability Of A Column](rails/change-the-nullability-of-a-column.md)
+- [Check Specific Attributes On ActiveRecord Array](rails/check-specific-attributes-on-activerecord-array.md)
 - [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
 - [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
@@ -509,6 +518,7 @@ _840 TILs and counting..._
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [List The Enqueued Jobs](rails/list-the-enqueued-jobs.md)
+- [Log SQL Queries Executed By ActiveRecord](rails/log-sql-queries-executed-by-activerecord.md)
 - [Mark A Migration As Irreversible](rails/mark-a-migration-as-irreversible.md)
 - [Make ActionMailer Synchronous In Test](rails/make-action-mailer-synchronous-in-test.md)
 - [Mark For Destruction](rails/mark-for-destruction.md)
@@ -531,6 +541,7 @@ _840 TILs and counting..._
 - [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
 - [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
 - [Truncate Almost All Tables](rails/truncate-almost-all-tables.md)
+- [Update Column Versus Update Attribute](rails/update-column-versus-update-attribute.md)
 - [Where Am I In The Partial Iteration?](rails/where-am-i-in-the-partial-iteration.md)
 
 ### React
@@ -543,6 +554,7 @@ _840 TILs and counting..._
 - [Alter The Display Name Of A Component](react/alter-the-display-name-of-a-component.md)
 - [Building A React App In The Browser](react/building-a-react-app-in-the-browser.md)
 - [Check The Type Of A Child Component](react/check-the-type-of-a-child-component.md)
+- [Conditionally Including Event Handler Functions](react/conditionally-including-event-handler-functions.md)
 - [Create Dynamically Named Custom React Components](react/create-dynamically-named-custom-react-components.md)
 - [create-react-app Comes With Lodash](react/create-react-app-comes-with-lodash.md)
 - [create-react-app Has A Default Test Setup File](react/create-react-app-has-a-default-test-setup-file.md)
@@ -572,6 +584,7 @@ _840 TILs and counting..._
 - [@reach/router Renders To A Div](react/reach-router-renders-to-a-div.md)
 - [Read Only Input Elements](react/read-only-input-elements.md)
 - [Rendering Multiple Nodes With Fragments](react/rendering-multiple-nodes-with-fragments.md)
+- [Specifying Dependencies Of A useEffect Hook](react/specifying-dependencies-of-a-useeffect-hook.md)
 - [Spelunking Through Components With Enzyme's Dive](react/spelunking-through-components-with-enzymes-dive.md)
 - [Sync Your react-router State With Redux](react/sync-your-react-router-state-with-redux.md)
 - [Test Files In create-react-app](react/test-files-in-create-react-app.md)
@@ -629,6 +642,7 @@ _840 TILs and counting..._
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Block Comments](ruby/block-comments.md)
 - [Chaining Multiple RSpec Change Matchers](ruby/chaining-multiple-rspec-change-matchers.md)
+- [Click On Text With Capybara](ruby/click-on-text-with-capybara.md)
 - [Colorful Output With MiniTest](ruby/colorful-output-with-minitest.md)
 - [Comparing Class Hierarchy Relationships](ruby/comparing-class-hierarchy-relationships.md)
 - [Comparing Arrays In RSpec](ruby/comparing-arrays-in-rspec.md)
@@ -662,6 +676,7 @@ _840 TILs and counting..._
 - [Last Raised Exception In The Call Stack](ruby/last-raised-exception-in-the-call-stack.md)
 - [Limit Split](ruby/limit-split.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
+- [Map With Index Over An Array](ruby/map-with-index-over-an-array.md)
 - [Mock Method Chain Calls With RSpec](ruby/mock-method-chain-calls-with-rspec.md)
 - [Mocking Requests With Partial URIs Using Regex](ruby/mocking-requests-with-partial-uris-using-regex.md)
 - [Navigate Back In The Browser With Capybara](ruby/navigate-back-in-the-browser-with-capybara.md)
@@ -709,6 +724,7 @@ _840 TILs and counting..._
 
 - [Adjusting Window Pane Size](tmux/adjusting-window-pane-size.md)
 - [Break Current Pane Out To Separate Window](tmux/break-current-pane-out-to-separate-window.md)
+- [Change Base Directory Of Existing Session](tmux/change-base-directory-of-existing-session.md)
 - [Create A Named tmux Session](tmux/create-a-named-tmux-session.md)
 - [Create A New Session In A New Server](tmux/create-a-new-session-in-a-new-server.md)
 - [Cycle Through Layouts](tmux/cycle-through-layouts.md)
@@ -749,6 +765,7 @@ _840 TILs and counting..._
 - [Display Free Disk Space](unix/display-free-disk-space.md)
 - [Do Not Overwrite Existing Files](unix/do-not-overwrite-existing-files.md)
 - [Exclude A Directory With Find](unix/exclude-a-directory-with-find.md)
+- [Figure Out The Week Of The Year From The Terminal](unix/figure-out-the-week-of-the-year-from-the-terminal.md)
 - [File Type Info With File](unix/file-type-info-with-file.md)
 - [Find Files With fd](unix/find-files-with-fd.md)
 - [Find Newer Files](unix/find-newer-files.md)
